@@ -1,0 +1,15 @@
+C:\Users\9698113\source\repos\Vario\ColazioneTask\bin\Debug\net7.0\ColazioneTask.exe
+C:\Users\9698113\source\repos\Vario\ColazioneTask\bin\Debug\net7.0\ColazioneTask.deps.json
+C:\Users\9698113\source\repos\Vario\ColazioneTask\bin\Debug\net7.0\ColazioneTask.runtimeconfig.json
+C:\Users\9698113\source\repos\Vario\ColazioneTask\bin\Debug\net7.0\ColazioneTask.dll
+C:\Users\9698113\source\repos\Vario\ColazioneTask\bin\Debug\net7.0\ColazioneTask.pdb
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.csproj.AssemblyReference.cache
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.AssemblyInfoInputs.cache
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.AssemblyInfo.cs
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.csproj.CoreCompileInputs.cache
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.dll
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\refint\ColazioneTask.dll
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.pdb
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ColazioneTask.genruntimeconfig.cache
+C:\Users\9698113\source\repos\Vario\ColazioneTask\obj\Debug\net7.0\ref\ColazioneTask.dll
